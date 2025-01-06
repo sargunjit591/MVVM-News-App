@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/drawable_ic_all_news.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/drawable/ic_all_news.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/layout_fragment_breaking_news.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/layout/fragment_breaking_news.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/layout_item_article_preview.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/layout/item_article_preview.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/navigation_news_nav_graph.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/navigation/news_nav_graph.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/layout_fragment_saved_news.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/layout/fragment_saved_news.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/layout_fragment_article.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/layout/fragment_article.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/layout_fragment_search_news.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/layout/fragment_search_news.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/xml_backup_rules.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/anim_slide_in_left.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/drawable_ic_breaking_news.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/drawable/ic_breaking_news.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/anim_slide_in_right.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/drawable_ic_favorite.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/layout_activity_news.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/layout/activity_news.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/anim_slide_out_left.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-debug-4:/anim_slide_out_right.xml.flat",
+        "source": "com.example.mvvmnewsapp-main-6:/anim/slide_out_right.xml"
+    }
+]

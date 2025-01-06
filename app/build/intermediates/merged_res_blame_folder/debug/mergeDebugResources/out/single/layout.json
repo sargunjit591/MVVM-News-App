@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.mvvmnewsapp-mergeDebugResources-3:/layout/fragment_saved_news.xml",
+        "source": "com.example.mvvmnewsapp-main-6:/layout/fragment_saved_news.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-mergeDebugResources-3:/layout/fragment_breaking_news.xml",
+        "source": "com.example.mvvmnewsapp-main-6:/layout/fragment_breaking_news.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-mergeDebugResources-3:/layout/activity_news.xml",
+        "source": "com.example.mvvmnewsapp-main-6:/layout/activity_news.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-mergeDebugResources-3:/layout/item_article_preview.xml",
+        "source": "com.example.mvvmnewsapp-main-6:/layout/item_article_preview.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-mergeDebugResources-3:/layout/fragment_article.xml",
+        "source": "com.example.mvvmnewsapp-main-6:/layout/fragment_article.xml"
+    },
+    {
+        "merged": "com.example.mvvmnewsapp-mergeDebugResources-3:/layout/fragment_search_news.xml",
+        "source": "com.example.mvvmnewsapp-main-6:/layout/fragment_search_news.xml"
+    }
+]
